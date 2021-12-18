@@ -1,0 +1,9 @@
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/commands/ProductForm.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/controllers/ProductController.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/converters/ProductToProductForm.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/repositories/ProductRepository.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/domain/Product.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/services/ProductServiceImpl.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/converters/ProductFormToProduct.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/SpringBootMySqlApplication.java
+/Users/mac/capita/spring-boot-mysql-example/src/main/java/guru/springframework/services/ProductService.java
